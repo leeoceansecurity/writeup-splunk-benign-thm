@@ -1,4 +1,4 @@
-# Tổng hợp cách làm bài Lab Splunk trên TryHackMe
+
 
 ## Mô tả
 Đây là bản tổng hợp chi tiết về cách tôi đã thực hiện và trả lời các câu hỏi trong lab Splunk trên nền tảng TryHackMe. Bài viết cung cấp hướng dẫn chi tiết từng bước để truy vấn logs, phát hiện tài khoản đáng ngờ, phân tích hành vi tải xuống mã độc, và xử lý các sự kiện bảo mật khác trong hệ thống Windows.
